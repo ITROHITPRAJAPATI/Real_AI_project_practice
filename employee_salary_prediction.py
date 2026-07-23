@@ -92,3 +92,4 @@ def main():
     print("Thanks You for Using Salary Prediction System ")
 
 main()
+print("Project Update")
