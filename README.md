@@ -26,4 +26,30 @@ This project predicts whether an email is Spam or Not Spam using the Multinomial
 - spam_model.pkl
 - vectorizer.pkl
 
+# Iris Flower Classification using SVM
+
+## Project Overview
+This project predicts the species of an Iris flower using the Support Vector Machine (SVM) algorithm.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Joblib
+
+## Project Structure
+
+data/
+models/
+train.py
+predict.py
+requirements.txt
+README.md
+
+## Model
+Support Vector Classifier (SVC)
+
+## Accuracy
+100%
+
 Author:Rohit Prajapati
